@@ -1,7 +1,7 @@
 # Projeto de uma Agenda de Contatos e READ.me em andamento...
 ## Tecnologias Utlizadas:
 - JavaScript/Express/Node
-- CSS
+- CSS/Bootstrap
 - EJS
 
 ## Essa aplicação será capaz de:
